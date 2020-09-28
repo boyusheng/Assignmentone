@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plot on A Hugo website</title>
+    <link>/tags/plot/</link>
+    <description>Recent content in plot on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Sep 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relationship between Age and the party people support</title>
+      <link>/2020/09/27/relationship-between-age-and-the-party-people-support/</link>
+      <pubDate>Sun, 27 Sep 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/09/27/relationship-between-age-and-the-party-people-support/</guid>
+      <description>Abstract This piece of work uses the rmarkdown as a tool to develop the variables and observers in the 2019 Canadian General Election
+ Introduction In the 2019 election, the survey showed that the support for the Liberal and Conservative Party are approximately the same. Among those group people, I mainly focus the variable of year of birth and the federal party that they support.
+In the graph, one thing that we can conclude is that the survey focused more on the people who are 40 years old or more and the statistics itself is biased.</description>
+    </item>
+    
+  </channel>
+</rss>
